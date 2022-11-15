@@ -1,8 +1,8 @@
 # Preview do projeto Space Cream
-<img src="./github/preview_mobilefirst.png" alt="Preview do projeto"/>
+<img src="./preview_mobilefirst.png" alt="Preview do projeto"/>
 
 ## Stage 03 - Desafio Mobile First
-  - Nesse stage 03 é repleto de conhecimento novo; Segue abaixo os principais conceitos práticado nesse desafio:
+  Nesse stage 03 é repleto de conhecimento novo; Segue abaixo os principais conceitos práticado nesse desafio:
   - pseudo-elements no CSS;
   - Regras Mobile First;
   - Aplico unidades de medidas relativas;
